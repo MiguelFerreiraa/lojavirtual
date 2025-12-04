@@ -1,3 +1,3 @@
 # lojavirtual
 
-Texto alterado no repósitorio local.
+Texto alterado no repósitorio local. (2)
